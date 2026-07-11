@@ -1,0 +1,12 @@
+# Secrets -- never commit your real API key
+.env
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Generated / regenerable data -- don't commit, they're large and rebuildable
+# from extract_and_chunk.py and embed_and_store.py
+## data/processed/chroma_db/
+## data/processed/chunks.jsonl

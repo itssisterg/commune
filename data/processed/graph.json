@@ -1,0 +1,1142 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "kind": "programme",
+      "description": "Have an idea to enliven the public spaces in your neighbourhood? Find out how with this fund!",
+      "chunk_ids": [
+        4
+      ],
+      "source_files": [
+        "Ecosystem_Funding_and_Resources___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Lively Places Fund (URA-HDB)"
+    },
+    {
+      "kind": "agency",
+      "id": "URA-HDB"
+    },
+    {
+      "kind": "resource_type",
+      "id": "funding"
+    },
+    {
+      "kind": "category",
+      "id": "Government Grants"
+    },
+    {
+      "kind": "programme",
+      "description": "Make use of this funding platform to organise maritime-related activities, and gain first- hand experience of various aspects of the maritime industry.",
+      "chunk_ids": [
+        5
+      ],
+      "source_files": [
+        "Ecosystem_Funding_and_Resources___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Maritime Outreach Fund (MPA)"
+    },
+    {
+      "kind": "agency",
+      "id": "MPA"
+    },
+    {
+      "kind": "programme",
+      "description": "NEA Call for Ideas Fund provides funding for projects that promotes environmental sustainability and public cleanliness in the community.",
+      "chunk_ids": [
+        6
+      ],
+      "source_files": [
+        "Ecosystem_Funding_and_Resources___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "NEA Call for Ideas Fund (NEA)"
+    },
+    {
+      "kind": "agency",
+      "id": "NEA"
+    },
+    {
+      "kind": "programme",
+      "description": "Have an idea for projects that bring communities together, or promotes Singapore's national identity and shared values? Find out if you are eligible.",
+      "chunk_ids": [
+        7
+      ],
+      "source_files": [
+        "Ecosystem_Funding_and_Resources___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Our SG Fund (MCCY)"
+    },
+    {
+      "kind": "agency",
+      "id": "MCCY"
+    },
+    {
+      "kind": "programme",
+      "description": "SG Eco Fund provides funding for community projects that advance environmental sustainability.",
+      "chunk_ids": [
+        8
+      ],
+      "source_files": [
+        "Ecosystem_Funding_and_Resources___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "SG Eco Fund (MSE)"
+    },
+    {
+      "kind": "agency",
+      "id": "MSE"
+    },
+    {
+      "kind": "programme",
+      "description": "Youth Heritage Kickstarter Fund empowers youths with funding and resources to preserve and safeguard Singapore's heritage.",
+      "chunk_ids": [
+        9
+      ],
+      "source_files": [
+        "Ecosystem_Funding_and_Resources___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Young Changemakers - Youth Heritage Kickstarter Fund (NYC-Changemakers)"
+    },
+    {
+      "kind": "agency",
+      "id": "NYC-Changemakers"
+    },
+    {
+      "kind": "programme",
+      "description": "GoBusiness is the go-to platform to connect businesses in Singapore to various Government e-services and resources.",
+      "chunk_ids": [
+        10
+      ],
+      "source_files": [
+        "Ecosystem_Funding_and_Resources___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Businesses: GoBusiness (Multi-Agency)"
+    },
+    {
+      "kind": "agency",
+      "id": "Multi-Agency"
+    },
+    {
+      "kind": "resource_type",
+      "id": "network"
+    },
+    {
+      "kind": "category",
+      "id": "Commercial Ideas"
+    },
+    {
+      "kind": "programme",
+      "description": "Find out more about the available support for your business to scale human-centered social impact at raiSE.",
+      "chunk_ids": [
+        11,
+        19
+      ],
+      "source_files": [
+        "Ecosystem_Funding_and_Resources___Singapore_Government_Partnerships_Office.pdf",
+        "Ecosystem_Partnerships_and_Engagements__For_Grounds_Ups_and_Organisations____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [
+        "raiSE"
+      ],
+      "id": "Social Enterprise Support: raiSE"
+    },
+    {
+      "kind": "resource_type",
+      "id": "mentorship"
+    },
+    {
+      "kind": "category",
+      "id": "For Ground-ups and Organisations"
+    },
+    {
+      "kind": "programme",
+      "description": "Want to host social & community events in State properties? Find the list of State properties available for short term rental in the link below.",
+      "chunk_ids": [
+        12
+      ],
+      "source_files": [
+        "Ecosystem_Funding_and_Resources___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "State Properties for Social & Community Uses (SLA)"
+    },
+    {
+      "kind": "agency",
+      "id": "SLA"
+    },
+    {
+      "kind": "resource_type",
+      "id": "space"
+    },
+    {
+      "kind": "category",
+      "id": "Resources"
+    },
+    {
+      "kind": "programme",
+      "description": "BAGUS Together is a first-stop platform for changemakers to gain access to resources, networks and support to develop their ground-up initiatives.",
+      "chunk_ids": [
+        14
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Grounds_Ups_and_Organisations____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Bagus Together"
+    },
+    {
+      "kind": "resource_type",
+      "id": "capability_building"
+    },
+    {
+      "kind": "programme",
+      "description": "Make a difference by starting a project to enhance Singaporeans' digital skills and wellbeing.",
+      "chunk_ids": [
+        15,
+        25
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Grounds_Ups_and_Organisations____Singapore_Government_Partnerships_Office.pdf",
+        "Ecosystem_Partnerships_and_Engagements__For_Individuals____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Digital for Life (Multi-Agency)"
+    },
+    {
+      "kind": "category",
+      "id": "For Individuals"
+    },
+    {
+      "kind": "programme",
+      "description": "Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts!",
+      "chunk_ids": [
+        16
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Grounds_Ups_and_Organisations____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Our SG Arts Plan (NAC)"
+    },
+    {
+      "kind": "agency",
+      "id": "NAC"
+    },
+    {
+      "kind": "programme",
+      "description": "'Long Island' (URA) project is an opportunity for Singaporeans to come together to shape the future of the East Coast.",
+      "chunk_ids": [
+        17,
+        26
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Grounds_Ups_and_Organisations____Singapore_Government_Partnerships_Office.pdf",
+        "Ecosystem_Partnerships_and_Engagements__For_Individuals____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "'Long Island' (URA)"
+    },
+    {
+      "kind": "agency",
+      "id": "URA"
+    },
+    {
+      "kind": "programme",
+      "description": "Have an innovative business idea that needs a trial space, or a suggestion on business process and regulations? Write to us!",
+      "chunk_ids": [
+        18
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Grounds_Ups_and_Organisations____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Pro Enterprise Panel"
+    },
+    {
+      "kind": "programme",
+      "description": "Share your ideas through the SG Youth Plan and be part of creating a brighter future for Singapore.",
+      "chunk_ids": [
+        20,
+        30
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Grounds_Ups_and_Organisations____Singapore_Government_Partnerships_Office.pdf",
+        "Ecosystem_Partnerships_and_Engagements__For_Individuals____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "SG Youth Plan (NYC)"
+    },
+    {
+      "kind": "agency",
+      "id": "NYC"
+    },
+    {
+      "kind": "programme",
+      "description": "Indicate your interest to partner schools on programmes and co-create solutions with students and educators.",
+      "chunk_ids": [
+        21
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Grounds_Ups_and_Organisations____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "School-Industry Partnership (MOE)"
+    },
+    {
+      "kind": "agency",
+      "id": "MOE"
+    },
+    {
+      "kind": "programme",
+      "description": "Have a bright idea that could help the community put Total Defence into action? Share it with us and we may bring it to life!",
+      "chunk_ids": [
+        22,
+        31
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Grounds_Ups_and_Organisations____Singapore_Government_Partnerships_Office.pdf",
+        "Ecosystem_Partnerships_and_Engagements__For_Individuals____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Total Defence (TD) Sandbox (MINDEF)"
+    },
+    {
+      "kind": "agency",
+      "id": "MINDEF"
+    },
+    {
+      "kind": "programme",
+      "description": "Caring SG Commuters Movement aims to foster a caring community culture in Singapore's public transport system.",
+      "chunk_ids": [
+        24
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Individuals____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Caring SG Commuters Movement (Multi-Agency)"
+    },
+    {
+      "kind": "programme",
+      "description": "The Nature Kakis Network grows NParks' City in Nature vision in heartlands, encouraging appreciation and community stewardship.",
+      "chunk_ids": [
+        27
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Individuals____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Nature Kakis (NParks)"
+    },
+    {
+      "kind": "agency",
+      "id": "NParks"
+    },
+    {
+      "kind": "resource_type",
+      "id": "manpower"
+    },
+    {
+      "kind": "programme",
+      "description": "Join OSK Network to gain awareness of municipal issues and participate in grounds-up initiatives.",
+      "chunk_ids": [
+        28
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Individuals____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "One Service Kakis Network (MSO)"
+    },
+    {
+      "kind": "agency",
+      "id": "MSO"
+    },
+    {
+      "kind": "programme",
+      "description": "Join the Making of Singapore's future arts scene where artists, audiences, and partners play their parts!",
+      "chunk_ids": [
+        29
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Individuals____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Our SG Arts Plan (2023 - 2027) (NAC)"
+    },
+    {
+      "kind": "programme",
+      "description": "A by youth for youth programme to empower youths through grants and mentorship in starting projects that benefit the community.",
+      "chunk_ids": [
+        32
+      ],
+      "source_files": [
+        "Ecosystem_Partnerships_and_Engagements__For_Individuals____Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Young ChangeMakers Programme (NYC-Changemakers)"
+    },
+    {
+      "kind": "programme",
+      "description": "The Community Foundation of Singapore is a trusted philanthropy advisor, assisting donors in achieving tangible and lasting change.",
+      "chunk_ids": [
+        34
+      ],
+      "source_files": [
+        "Ecosystem_Volunteering_and_Giving___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Community Foundation of Singapore"
+    },
+    {
+      "kind": "category",
+      "id": "Volunteering and Giving Opportunities"
+    },
+    {
+      "kind": "programme",
+      "description": "Volunteer at our care centres, charity and advocacy events to help us better serve Singapore\u02bcs growing dementia community.",
+      "chunk_ids": [
+        35
+      ],
+      "source_files": [
+        "Ecosystem_Volunteering_and_Giving___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Dementia Singapore"
+    },
+    {
+      "kind": "programme",
+      "description": "Explore opportunities to do good via a youth-centric Civic Action Portal from the National Youth Council (NYC).",
+      "chunk_ids": [
+        36
+      ],
+      "source_files": [
+        "Ecosystem_Volunteering_and_Giving___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "DISCOVER Civic Action (NYC)"
+    },
+    {
+      "kind": "programme",
+      "description": "One-stop national platform to donate, volunteer and fundraise for over 600 registered non-profits in Singapore.",
+      "chunk_ids": [
+        37
+      ],
+      "source_files": [
+        "Ecosystem_Volunteering_and_Giving___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Giving.sg"
+    },
+    {
+      "kind": "programme",
+      "description": "Connect is a place where you can contribute your expertise and wisdom to make a lasting difference in the lives of a growing community of young minds.",
+      "chunk_ids": [
+        38
+      ],
+      "source_files": [
+        "Ecosystem_Volunteering_and_Giving___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Mentoring.SG (Multi-Agency)"
+    },
+    {
+      "kind": "programme",
+      "description": "Join us and be part of a like-minded community dedicated to building a more inclusive and caring Singapore.",
+      "chunk_ids": [
+        39
+      ],
+      "source_files": [
+        "Ecosystem_Volunteering_and_Giving___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "MSFCare Network (MSF)"
+    },
+    {
+      "kind": "agency",
+      "id": "MSF"
+    },
+    {
+      "kind": "programme",
+      "description": "Volunteer to help everyone become more aware of our shared environmental responsibility for a Clean & Green Singapore.",
+      "chunk_ids": [
+        40
+      ],
+      "source_files": [
+        "Ecosystem_Volunteering_and_Giving___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "NEA Volunteer Corps (NEA)"
+    },
+    {
+      "kind": "programme",
+      "description": "Volunteer facilitators will assist with tree planting events and share the key message of how this contributes towards NParks' City in Nature vision.",
+      "chunk_ids": [
+        41
+      ],
+      "source_files": [
+        "Ecosystem_Volunteering_and_Giving___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "OneMillionTrees Facilitator (NParks)"
+    },
+    {
+      "kind": "programme",
+      "description": "Individuals passionate about community causes can sign up as Community Volunteers and explore the opportunities available.",
+      "chunk_ids": [
+        42
+      ],
+      "source_files": [
+        "Ecosystem_Volunteering_and_Giving___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "PA Community Volunteering (PA)"
+    },
+    {
+      "kind": "agency",
+      "id": "PA"
+    },
+    {
+      "kind": "programme",
+      "description": "Search for available volunteering opportunities that strikes a chord with your heart to kick start your volunteering journey today.",
+      "chunk_ids": [
+        43
+      ],
+      "source_files": [
+        "Ecosystem_Volunteering_and_Giving___Singapore_Government_Partnerships_Office.pdf"
+      ],
+      "aliases": [],
+      "id": "Volunteer.gov.sg (MCCY)"
+    },
+    {
+      "kind": "programme",
+      "description": "MINISTRY OF CULTURE, COMMUNITY AND YOUTH SG PARTNERSHIPS FUND (SEED) INSTRUCTIONS About this grant The SG Partnerships Fund (SGPF) aims to support citizens who want to step up and lead efforts to cont",
+      "chunk_ids": [
+        44,
+        45,
+        46
+      ],
+      "source_files": [
+        "Funding_Seed.pdf"
+      ],
+      "aliases": [],
+      "id": "SGPO Seed Funding"
+    },
+    {
+      "kind": "agency",
+      "id": "SGPO"
+    },
+    {
+      "kind": "programme",
+      "description": "MINISTRY OF CULTURE, COMMUNITY AND YOUTH SG PARTNERSHIPS FUND (SPROUT) INSTRUCTIONS About this grant The SG Partnerships Fund (SGPF) aims to support citizens who want to step up and lead efforts to co",
+      "chunk_ids": [
+        47,
+        48,
+        49
+      ],
+      "source_files": [
+        "Funding_Sprout.pdf"
+      ],
+      "aliases": [],
+      "id": "SGPO Sprout Funding"
+    },
+    {
+      "kind": "programme",
+      "description": "MINISTRY OF CULTURE, COMMUNITY AND YOUTH SG PARTNERSHIPS FUND (SCALE) INSTRUCTIONS About this grant The SG Partnerships Fund (SGPF) aims to support citizens who want to step up and lead efforts to con",
+      "chunk_ids": [
+        50,
+        51,
+        52
+      ],
+      "source_files": [
+        "Funding_Scale.pdf"
+      ],
+      "aliases": [],
+      "id": "SGPO Scale Funding"
+    }
+  ],
+  "edges": [
+    {
+      "type": "OFFERED_BY",
+      "source": "Lively Places Fund (URA-HDB)",
+      "target": "URA-HDB"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Lively Places Fund (URA-HDB)",
+      "target": "funding"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Lively Places Fund (URA-HDB)",
+      "target": "Government Grants"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Maritime Outreach Fund (MPA)",
+      "target": "MPA"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Maritime Outreach Fund (MPA)",
+      "target": "funding"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Maritime Outreach Fund (MPA)",
+      "target": "Government Grants"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "NEA Call for Ideas Fund (NEA)",
+      "target": "NEA"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "NEA Call for Ideas Fund (NEA)",
+      "target": "funding"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "NEA Call for Ideas Fund (NEA)",
+      "target": "Government Grants"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Our SG Fund (MCCY)",
+      "target": "MCCY"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Our SG Fund (MCCY)",
+      "target": "funding"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Our SG Fund (MCCY)",
+      "target": "Government Grants"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "SG Eco Fund (MSE)",
+      "target": "MSE"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "SG Eco Fund (MSE)",
+      "target": "funding"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "SG Eco Fund (MSE)",
+      "target": "Government Grants"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Young Changemakers - Youth Heritage Kickstarter Fund (NYC-Changemakers)",
+      "target": "NYC-Changemakers"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Young Changemakers - Youth Heritage Kickstarter Fund (NYC-Changemakers)",
+      "target": "funding"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Young Changemakers - Youth Heritage Kickstarter Fund (NYC-Changemakers)",
+      "target": "Government Grants"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Businesses: GoBusiness (Multi-Agency)",
+      "target": "Multi-Agency"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Businesses: GoBusiness (Multi-Agency)",
+      "target": "network"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Businesses: GoBusiness (Multi-Agency)",
+      "target": "Commercial Ideas"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Social Enterprise Support: raiSE",
+      "target": "network"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Social Enterprise Support: raiSE",
+      "target": "mentorship"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Social Enterprise Support: raiSE",
+      "target": "For Ground-ups and Organisations"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Social Enterprise Support: raiSE",
+      "target": "Commercial Ideas"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "State Properties for Social & Community Uses (SLA)",
+      "target": "SLA"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "State Properties for Social & Community Uses (SLA)",
+      "target": "space"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "State Properties for Social & Community Uses (SLA)",
+      "target": "Resources"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Bagus Together",
+      "target": "capability_building"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Bagus Together",
+      "target": "network"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Bagus Together",
+      "target": "For Ground-ups and Organisations"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Digital for Life (Multi-Agency)",
+      "target": "Multi-Agency"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Digital for Life (Multi-Agency)",
+      "target": "network"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Digital for Life (Multi-Agency)",
+      "target": "capability_building"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Digital for Life (Multi-Agency)",
+      "target": "For Ground-ups and Organisations"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Digital for Life (Multi-Agency)",
+      "target": "For Individuals"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Our SG Arts Plan (NAC)",
+      "target": "NAC"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Our SG Arts Plan (NAC)",
+      "target": "network"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Our SG Arts Plan (NAC)",
+      "target": "For Ground-ups and Organisations"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "'Long Island' (URA)",
+      "target": "URA"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "'Long Island' (URA)",
+      "target": "network"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "'Long Island' (URA)",
+      "target": "For Ground-ups and Organisations"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "'Long Island' (URA)",
+      "target": "For Individuals"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Pro Enterprise Panel",
+      "target": "network"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Pro Enterprise Panel",
+      "target": "mentorship"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Pro Enterprise Panel",
+      "target": "For Ground-ups and Organisations"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "SG Youth Plan (NYC)",
+      "target": "NYC"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "SG Youth Plan (NYC)",
+      "target": "network"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "SG Youth Plan (NYC)",
+      "target": "For Ground-ups and Organisations"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "SG Youth Plan (NYC)",
+      "target": "For Individuals"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "School-Industry Partnership (MOE)",
+      "target": "MOE"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "School-Industry Partnership (MOE)",
+      "target": "capability_building"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "School-Industry Partnership (MOE)",
+      "target": "network"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "School-Industry Partnership (MOE)",
+      "target": "For Ground-ups and Organisations"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Total Defence (TD) Sandbox (MINDEF)",
+      "target": "MINDEF"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Total Defence (TD) Sandbox (MINDEF)",
+      "target": "network"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Total Defence (TD) Sandbox (MINDEF)",
+      "target": "For Ground-ups and Organisations"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Total Defence (TD) Sandbox (MINDEF)",
+      "target": "For Individuals"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Caring SG Commuters Movement (Multi-Agency)",
+      "target": "Multi-Agency"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Caring SG Commuters Movement (Multi-Agency)",
+      "target": "network"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Caring SG Commuters Movement (Multi-Agency)",
+      "target": "For Individuals"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Nature Kakis (NParks)",
+      "target": "NParks"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Nature Kakis (NParks)",
+      "target": "network"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Nature Kakis (NParks)",
+      "target": "manpower"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Nature Kakis (NParks)",
+      "target": "For Individuals"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "One Service Kakis Network (MSO)",
+      "target": "MSO"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "One Service Kakis Network (MSO)",
+      "target": "network"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "One Service Kakis Network (MSO)",
+      "target": "manpower"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "One Service Kakis Network (MSO)",
+      "target": "For Individuals"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Our SG Arts Plan (2023 - 2027) (NAC)",
+      "target": "NAC"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Our SG Arts Plan (2023 - 2027) (NAC)",
+      "target": "network"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Our SG Arts Plan (2023 - 2027) (NAC)",
+      "target": "For Individuals"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Young ChangeMakers Programme (NYC-Changemakers)",
+      "target": "NYC-Changemakers"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Young ChangeMakers Programme (NYC-Changemakers)",
+      "target": "funding"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Young ChangeMakers Programme (NYC-Changemakers)",
+      "target": "mentorship"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Young ChangeMakers Programme (NYC-Changemakers)",
+      "target": "For Individuals"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Community Foundation of Singapore",
+      "target": "funding"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Community Foundation of Singapore",
+      "target": "network"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Community Foundation of Singapore",
+      "target": "Volunteering and Giving Opportunities"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Dementia Singapore",
+      "target": "manpower"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Dementia Singapore",
+      "target": "Volunteering and Giving Opportunities"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "DISCOVER Civic Action (NYC)",
+      "target": "NYC"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "DISCOVER Civic Action (NYC)",
+      "target": "network"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "DISCOVER Civic Action (NYC)",
+      "target": "manpower"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "DISCOVER Civic Action (NYC)",
+      "target": "Volunteering and Giving Opportunities"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Giving.sg",
+      "target": "funding"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Giving.sg",
+      "target": "manpower"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Giving.sg",
+      "target": "Volunteering and Giving Opportunities"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Mentoring.SG (Multi-Agency)",
+      "target": "Multi-Agency"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Mentoring.SG (Multi-Agency)",
+      "target": "mentorship"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Mentoring.SG (Multi-Agency)",
+      "target": "Volunteering and Giving Opportunities"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "MSFCare Network (MSF)",
+      "target": "MSF"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "MSFCare Network (MSF)",
+      "target": "network"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "MSFCare Network (MSF)",
+      "target": "manpower"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "MSFCare Network (MSF)",
+      "target": "Volunteering and Giving Opportunities"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "NEA Volunteer Corps (NEA)",
+      "target": "NEA"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "NEA Volunteer Corps (NEA)",
+      "target": "manpower"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "NEA Volunteer Corps (NEA)",
+      "target": "Volunteering and Giving Opportunities"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "OneMillionTrees Facilitator (NParks)",
+      "target": "NParks"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "OneMillionTrees Facilitator (NParks)",
+      "target": "manpower"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "OneMillionTrees Facilitator (NParks)",
+      "target": "Volunteering and Giving Opportunities"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "PA Community Volunteering (PA)",
+      "target": "PA"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "PA Community Volunteering (PA)",
+      "target": "manpower"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "PA Community Volunteering (PA)",
+      "target": "Volunteering and Giving Opportunities"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "Volunteer.gov.sg (MCCY)",
+      "target": "MCCY"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "Volunteer.gov.sg (MCCY)",
+      "target": "manpower"
+    },
+    {
+      "type": "LISTED_UNDER",
+      "source": "Volunteer.gov.sg (MCCY)",
+      "target": "Volunteering and Giving Opportunities"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "SGPO Seed Funding",
+      "target": "SGPO"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "SGPO Seed Funding",
+      "target": "funding"
+    },
+    {
+      "type": "NEXT_TIER",
+      "source": "SGPO Seed Funding",
+      "target": "SGPO Sprout Funding"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "SGPO Sprout Funding",
+      "target": "SGPO"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "SGPO Sprout Funding",
+      "target": "funding"
+    },
+    {
+      "type": "NEXT_TIER",
+      "source": "SGPO Sprout Funding",
+      "target": "SGPO Scale Funding"
+    },
+    {
+      "type": "OFFERED_BY",
+      "source": "SGPO Scale Funding",
+      "target": "SGPO"
+    },
+    {
+      "type": "PROVIDES",
+      "source": "SGPO Scale Funding",
+      "target": "funding"
+    }
+  ]
+}

@@ -748,6 +748,23 @@ def render_composer():
 
 # ---------------------------------------------------------------- pages ----
 
+def render_disclaimer():
+    with st.expander("⚠️ Important notice"):
+        st.markdown(html("""
+            <p style='font-size:0.65rem; line-height:1.4;'>
+            IMPORTANT NOTICE: This web application is a prototype developed for
+            educational purposes only. The information provided here is NOT
+            intended for real-world usage and should not be relied upon for
+            making any decisions, especially those related to financial, legal,
+            or healthcare matters.<br><br>
+            Furthermore, please be aware that the LLM may generate inaccurate or
+            incorrect information. You assume full responsibility for how you
+            use any generated output.<br><br>
+            Always consult with qualified professionals for accurate and
+            personalised advice.</p>
+        """), unsafe_allow_html=True)
+
+
 def render_main_page():
     if not st.session_state.history:
         st.markdown(html("""
@@ -758,6 +775,7 @@ def render_main_page():
             </div>
         """), unsafe_allow_html=True)
         render_composer()
+        render_disclaimer()
     else:
         _, header_col = st.columns([4, 1.3])
         with header_col:
@@ -767,6 +785,7 @@ def render_main_page():
                 st.rerun()
 
         render_composer()
+        render_disclaimer()
 
         st.markdown("<div style='margin-top:2rem;'></div>", unsafe_allow_html=True)
 
